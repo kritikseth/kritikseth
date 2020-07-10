@@ -1,4 +1,4 @@
-![Kritik Seth](/Banner.jpg)
+![Kritik Seth](https://raw.githubusercontent.com/kritikseth/kritikseth/master/Banner.jpg)
 <!--
 **kritikseth/kritikseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
