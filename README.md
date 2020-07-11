@@ -7,8 +7,8 @@
 
 [1]: https://www.linkedin.com/in/kritikseth
 [2]: mailto:sethkritik@gmail.com
-[4]: https://medium.com/@kritikseth
-[5]: https://www.kaggle.com/kritikseth
+[3]: https://medium.com/@kritikseth
+[4]: https://www.kaggle.com/kritikseth
 
 Hi, my name is **Kritik Seth** and I am a **Data Science Enthusiast** based in Mumbai, India. I am currently pursuing B.Tech Data Science from MPSTME, NMIMS and will graduate in the year 2022.
 
