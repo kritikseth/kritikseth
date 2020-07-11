@@ -65,5 +65,5 @@ I am currently looking for new opportunities. My inbox is always open, whether y
 <!-- section - social media icons -->
 
 <p align='center'>
-  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
+  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=kritikseth.visitor-badge">
 <p/>
