@@ -10,9 +10,6 @@
 [4]: https://medium.com/@kritikseth
 [5]: https://www.kaggle.com/kritikseth
 
-# ❤ to Build - Software Engineer & Enthusiast!
-
-
 Hi, my name is **Kritik Seth** and I am a **Data Science Enthusiast** based in Mumbai, India. I am currently pursuing B.Tech Data Science from MPSTME, NMIMS and will graduate in the year 2022.
 
 My portfolio is a representation of all that I have learned and accomplished as a B.Tech Data Science student. The articles and projects you will see in this portfolio show how my knowledge and experience have evolved over time.
