@@ -18,11 +18,11 @@ I am currently pursuing Machine Learning and Deep Learning.
 
 Connect with me:
 
-[![linkedin kritikseth][1.1]][1]
-[![mail kritikseth][2.1]][2]
-[![medium kritikseth][3.1]][3]
-[![kaggle kritikseth][4.1]][4]
-
+[![linkedin kritikseth][1.1]][1]  
+[![mail kritikseth][2.1]][2]  
+[![medium kritikseth][3.1]][3]  
+[![kaggle kritikseth][4.1]][4]  
+ 
 <!-- ---- -->
 
 
