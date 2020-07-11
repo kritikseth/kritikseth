@@ -23,6 +23,9 @@ Connect with me:
 [![medium kritikseth][3.1]][3]
 [![kaggle kritikseth][4.1]][4]
 
+<!--  -->
+
+
 ## Skills I have
 
 * Machine Learning
