@@ -2,7 +2,7 @@
 
 [1.1]: https://github.com/kritikseth/kritikseth/blob/master/assets/icons/linkedin.png (linkedin)
 [2.1]: https://github.com/kritikseth/kritikseth/blob/master/assets/icons/mail.png (mail)
-[3.1]: https://github.com/kritikseth/kritikseth/blob/master/assets/icons/medium.png (medium)
+[3.1]: https://github.com/kritikseth/kritikseth/blob/master/assets/icons/medium.svg (medium)
 [4.1]: https://github.com/kritikseth/kritikseth/blob/master/assets/icons/kaggle.png (kaggle)
 
 [1]: https://www.linkedin.com/in/kritikseth
