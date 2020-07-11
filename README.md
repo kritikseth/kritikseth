@@ -16,6 +16,8 @@ My portfolio is a representation of all that I have learned and accomplished as 
 
 I am currently pursuing Machine Learning and Deep Learning.
 
+Visit my website- https://kritikseth.github.io
+
 Connect with me:
 
 [![linkedin kritikseth][1.1]][1]
@@ -47,6 +49,9 @@ Connect with me:
 
 - [Data Cleaning and Regression on BigMart in R](https://medium.com/analytics-vidhya/data-cleaning-and-regression-on-bigmart-in-r-3774990556b9)
 
+## Live Projects
+
+- [NLP Cleaning Pipeline](https://kritikseth.herokuapp.com/nlppipeline)
 
 ## Connect with me
 
