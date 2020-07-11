@@ -18,10 +18,10 @@ I am currently pursuing Machine Learning and Deep Learning.
 
 Connect with me:
 
-[![linkedin ombharatiya][1.1]][1]
-[![mail ombharatiya][2.1]][2]
-[![medium ombharatiya][3.1]][3]
-[![kaggle ombharatiya][4.1]][4]
+[![linkedin kritikseth][1.1]][1]
+[![mail kritikseth][2.1]][2]
+[![medium kritikseth][3.1]][3]
+[![kaggle kritikseth][4.1]][4]
 
 ## Skills I have
 
@@ -46,16 +46,14 @@ Connect with me:
 - [Data Cleaning and Regression on BigMart in R](https://medium.com/analytics-vidhya/data-cleaning-and-regression-on-bigmart-in-r-3774990556b9)
 
 
-## Thank you and Namaste! 🙏
+## Connect with me
 
-Thanks for reading about me. You can connect with me on ..
+I am currently looking for new opportunities. My inbox is always open, whether you have a question or just want to say hi, you can always connect with me.
 
-<!-- section - social media icons -->
-
-[![linkedin ombharatiya][1.1]][1]
-[![mail ombharatiya][2.1]][2]
-[![medium ombharatiya][3.1]][3]
-[![kaggle ombharatiya][4.1]][4]
+[![linkedin kritikseth][1.1]][1]
+[![mail kritikseth][2.1]][2]
+[![medium kritikseth][3.1]][3]
+[![kaggle kritikseth][4.1]][4]
 
 <!-- section - social media icons -->
 
