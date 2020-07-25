@@ -57,10 +57,10 @@ Connect with me:
 
 I am currently looking for new opportunities. My inbox is always open, whether you have a question or just want to say hi, you can always connect with me.
 
-[![linkedin kritikseth][1.1]][1]
-[![mail kritikseth][2.1]][2]
-[![medium kritikseth][3.1]][3]
-[![kaggle kritikseth][4.1]][4]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kritikseth)](https://www.linkedin.com/in/kritikseth)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sethkritik@gmail.com)](mailto:sethkritik@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@kritikseth)](https://medium.com/@kritikseth)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kritikseth)](https://www.kaggle.com/kritikseth) 
 
 <!-- section - social media icons -->
 
