@@ -1,4 +1,4 @@
-![Kritik Seth](https://github.com/kritikseth/kritikseth/blob/master/assets/images/Banner.jpg)
+![Kritik Seth](https://raw.githubusercontent.com/kritikseth/kritikseth/master/assets/images/Banner_line.gif)
 
 [1.1]: https://github.com/kritikseth/kritikseth/blob/master/assets/icons/linkedin_c.png (linkedin)
 [2.1]: https://github.com/kritikseth/kritikseth/blob/master/assets/icons/email.png (mail)
