@@ -32,9 +32,9 @@ Connect with me:
 ## Skills I have
 
 * Machine Learning
+* Deep Learning
 * Statistics
-* Python
-* R- Programming
+* Data Visualisation
 * SQL, NoSQL, MySQL
 * Tableau
 
