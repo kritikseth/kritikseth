@@ -27,6 +27,7 @@ Connect with me:
 
 <!-- ---- -->
 
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kritikseth/kritikseth/master/assets/images/codegif.gif" width="320" height="284" />
 
 ## Skills I have
 
@@ -36,6 +37,7 @@ Connect with me:
 * R- Programming
 * SQL, NoSQL, MySQL
 * Tableau
+
 
 ## Experience
 
@@ -49,6 +51,7 @@ Connect with me:
 - [EDA and Multiple Linear Regression on Boston Housing in R](https://medium.com/analytics-vidhya/eda-and-multiple-linear-regression-on-boston-housing-in-r-270f858dc7b)
 
 - [Data Cleaning and Regression on BigMart in R](https://medium.com/analytics-vidhya/data-cleaning-and-regression-on-bigmart-in-r-3774990556b9)
+
 
 ## Live Projects
 
