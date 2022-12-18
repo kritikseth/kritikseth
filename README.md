@@ -10,11 +10,9 @@
 [3]: https://medium.com/@kritikseth
 [4]: https://www.kaggle.com/kritikseth
 
-Hi, my name is **Kritik Seth** and I am a **Data Science Enthusiast** based in Mumbai, India. I am currently pursuing M.S. in Data Science from NYU, Graduate School of Arts & Science, Center for Data Science and will graduate in the year 2024.
+Namaste, my name is Kritik Seth and I am a data scientist based in New York. I am currently pursuing Masters of Science in Data Science from NYU Graduate School of Arts & Science, Center for Data Science, where I am expected to graduate in 2024. Prior to my Master's, I completed a BTech in Data Science in 2022. Throughout my academic journey, I have gained valuable hands-on experience through several internships in the field of data science.
 
-My portfolio is a representation of all that I have learned and accomplished as a B.Tech Data Science student. The articles and projects you will see in this portfolio show how my knowledge and experience have evolved over time.
-
-I am currently pursuing Machine Learning and Deep Learning.
+My portfolio is a representation of all that I have learned and accomplished as a data science student and demonstrates my critical thinking skills, knowledge, and experience.
 
 Visit my website- https://kritikseth.github.io
 
