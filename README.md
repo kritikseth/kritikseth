@@ -14,7 +14,7 @@ Namaste, my name is Kritik Seth and I am a data scientist based in New York. I a
 
 My portfolio is a representation of all that I have learned and accomplished as a data science student and demonstrates my critical thinking skills, knowledge, and experience.
 
-Visit my website- https://kritikseth.github.io
+Visit my website- kritikseth.com
 
 Connect with me:
 
