@@ -39,9 +39,9 @@ Connect with me:
 
 ## Experience
 
-> Academic Intern - [**Persistent Systems**]((https://www.persistent.com/))
+> Academic Intern - [**Persistent Systems**](https://www.persistent.com/)
 
-> Data Science Intern - [**AkzoNobel**]((https://www.akzonobel.com/))
+> Data Science Intern - [**AkzoNobel**](https://www.akzonobel.com/)
 
 > Junior Data Scientist - [**Kenmark ITAN**](https://kenmarkitan.com/home)
 
