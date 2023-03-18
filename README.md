@@ -39,10 +39,13 @@ Connect with me:
 
 ## Experience
 
-> Data Analyst - [**Sapio Analytics**](https://www.sapioanalytics.com)
+> Academic Intern - [**Persistent Systems**]((https://www.persistent.com/))
+
+> Data Science Intern - [**AkzoNobel**]((https://www.akzonobel.com/))
 
 > Junior Data Scientist - [**Kenmark ITAN**](https://kenmarkitan.com/home)
 
+> Data Analyst - [**Sapio Analytics**](https://www.sapioanalytics.com)
 
 ## Articles I have written
 
