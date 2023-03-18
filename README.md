@@ -47,18 +47,6 @@ Connect with me:
 
 > Data Analyst - [**Sapio Analytics**](https://www.sapioanalytics.com)
 
-## Articles I have written
-
-- [EDA and Multiple Linear Regression on Boston Housing in R](https://medium.com/analytics-vidhya/eda-and-multiple-linear-regression-on-boston-housing-in-r-270f858dc7b)
-
-- [Data Cleaning and Regression on BigMart in R](https://medium.com/analytics-vidhya/data-cleaning-and-regression-on-bigmart-in-r-3774990556b9)
-
-
-## Live Projects
-
-- [NLP Cleaning Pipeline](https://kritikseth.herokuapp.com/nlppipeline)
-- [wherebnb.](https://wherebnb.herokuapp.com)
-
 ## Connect with me
 
 I am currently looking for new opportunities. My inbox is always open, whether you have a question or just want to say hi, you can always connect with me.
