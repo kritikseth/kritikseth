@@ -39,7 +39,7 @@ Connect with me:
 
 ## Experience
 
-> Academic Intern - [**Persistent Systems**](https://www.persistent.com/)
+> Data Science Intern - [**Persistent Systems**](https://www.persistent.com/)
 
 > Data Science Intern - [**AkzoNobel**](https://www.akzonobel.com/)
 
