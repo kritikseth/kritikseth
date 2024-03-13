@@ -39,7 +39,13 @@ Connect with me:
 
 ## Experience
 
-> Data Science Intern - [**Persistent Systems**](https://www.persistent.com/)
+> Data Science Project Lead - [**NYU Stern School of Business**](https://www.nyu.edu/)
+
+> Graduate Student Researcher - [**Memorial Sloan Kettering Cancer Center**](https://www.mskcc.org/)
+
+> Data Science Intern - [**Logitix**](https://logitix.com/)
+
+> Machine Learning Intern - [**Persistent Systems**](https://www.persistent.com/)
 
 > Data Science Intern - [**AkzoNobel**](https://www.akzonobel.com/)
 
